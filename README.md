@@ -7,7 +7,11 @@
 Лимиты Claude Code в строке меню мака, заодно гачи-саундборд.
 Репозиторий: [claude-limits-gachi-soundboard](https://github.com/marblecake88/claude-limits-gachi-soundboard)
 
+    brew trust marblecake88/tap
     brew install --cask marblecake88/tap/claude-limits-gachi-soundboard
+
+brew trust нужен один раз: свежие версии homebrew не грузят каски из сторонних
+тапов, пока им не доверишь.
 
 обновить:
 
