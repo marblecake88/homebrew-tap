@@ -1,6 +1,6 @@
 cask "claude-limits-gachi-soundboard" do
-  version "1.8"
-  sha256 "c2d9a13061fc7547c577a6073b5e4f5590344b3bcca73562d4efe51e1e305479"
+  version "1.9"
+  sha256 "5ce19830eda6c03d9d0f649768c5d26f5d4de813741091eef191ecd3bba6d893"
 
   url "https://github.com/marblecake88/claude-limits-gachi-soundboard/releases/download/v#{version}/LimitNotifier.zip"
   name "Claude Limits Gachi Soundboard"
